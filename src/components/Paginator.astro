@@ -1,0 +1,23 @@
+---
+const { page } = Astro.props
+---
+
+<section class="flex space-x-8 justify-center text-xl font-bold">
+  {page.url.prev &&
+  <a
+    href={page.url.prev}
+    class="mr-8 hover:text-hot-pink"
+    data-test="paginator-prev">
+    <span class="squiggle">&larr;</span> Prev
+  </a>
+  }
+
+  {page.url.next &&
+  <a
+    href={page.url.next}
+    class="hover:text-hot-pink"
+    data-test="paginator-next">
+    Next<span class="squiggle">&rarr;</span>
+  </a>
+  }
+</section>

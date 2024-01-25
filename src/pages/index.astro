@@ -1,0 +1,51 @@
+---
+import BaseHead from '../components/Head/BaseHead.astro';
+import Nav from '../components/Nav.astro';
+import HomeHeader from '../components/HomeHeader.astro';
+import Card from '../components/Card.astro';
+import Footer from '../components/Footer/Footer.astro'
+
+interface MarkdownFrontmatter {
+  date: number;
+  pubDate: string;
+}
+
+const title = "PodBits";
+const description = "Tech Talks, Bit-Ready for you";
+const seoDescription = "PODBITS shortens your favorite tech talks. Explore concise summaries of tech podcasts, providing bite-sized analyses for quick insights";
+
+const allPosts = await Astro.glob<MarkdownFrontmatter>('./posts/*.md');
+const sortedPosts = allPosts.sort((a, b) => new Date(b.frontmatter.pubDate).valueOf() - new Date(a.frontmatter.pubDate).valueOf());
+---
+
+<html lang="pt"> 
+  git config --global user.name "Your Name"
+
+<head>
+  <BaseHead title={title} description={seoDescription} />
+</head>
+
+<body class="bg-white text-black font-body leading-normal personality-casual">
+  <Nav />
+
+  <main class="py-12 lg:py-16">
+
+    <article class="max-w-6xl mx-auto px-4">
+      <HomeHeader title={title} description={description} />
+      <section class="flex space-x-8 justify-center text-xl font-bold">
+        <a class="hover:text-hot-pink" href="/posts" data-test="see-all-link">
+          See All
+        </a>
+      </section>
+      <section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 py-8" data-test="podbits-section">
+        {sortedPosts.slice(0, 3).map(p => <div class="col-span-1">
+          <Card post={p} />
+        </div>)}
+      </section>
+    </article>
+  </main>
+  
+  <Footer />
+</body>
+
+</html>
