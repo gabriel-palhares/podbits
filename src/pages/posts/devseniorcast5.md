@@ -3,7 +3,7 @@ title: "DevSenior Cast #5"
 pubDate: "2024-01-19"
 slug: "devsenior-cast-5"
 description: "Episódio que não deveria existir: Conselhos que mudam sua vida pra melhor, volte quantas vezes precisar."
-hero: "./images/cottonbro-studio-devsenior-5.jpg"
+hero: "/images/cottonbro-studio-devsenior-5.jpg"
 tags: ["career"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
