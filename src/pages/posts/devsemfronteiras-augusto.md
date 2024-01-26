@@ -3,7 +3,7 @@ title: "Dev Sem Fronteiras #123"
 pubDate: "2024-01-24"
 slug: "dev-sem-fronteiras-123"
 description: "Augusto Galego, Engenheiro de Software em Pádua, Itália"
-hero: "/images/dev-sem-fronteiras-padua.jpg"
+hero: "/podbits/images/dev-sem-fronteiras-padua.jpg"
 tags: ["international career, software engineer"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---

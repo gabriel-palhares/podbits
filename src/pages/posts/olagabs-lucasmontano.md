@@ -2,7 +2,7 @@
 title: "Olá, Gabs #26"
 description: "Quase profissional de BMX, android engineer na Disney, quase milionário: a história de Lucas Montano, do Canal Lucas Montano."
 pubDate: "2024-01-25"
-hero: "/images/ola-gabs-disneyland.jpg"
+hero: "/podbits/images/ola-gabs-disneyland.jpg"
 tags: ["Tech"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
