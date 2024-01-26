@@ -10,7 +10,8 @@ layout: "../../layouts/BlogPostLayout.astro"
 
 ### PodBits: TL;DR for your favorite podcast - Enjoy!
 
-#### — Episódio que não deveria existir: Conselhos que mudam sua vida pra melhor, volte quantas vezes precisar.
+#### Episódio que não deveria existir
+**— Conselhos que mudam sua vida pra melhor, volte quantas vezes precisar.**
 
 No episódio, Rafael Thayto compartilha conselhos e reflexões improvisadas sobre carreira. Ele destaca a importância de se conhecer tecnicamente e pessoalmente, ressaltando como isso pode impactar positivamente na vida profissional. Rafael compartilha uma experiência pessoal sobre a mudança significativa em seu ânimo ao começar a frequentar a academia regularmente, enfatizando os benefícios para o sono, concentração e motivação.
 
@@ -38,6 +39,6 @@ Essa observação sugere uma crítica aos julgamentos precipitados sobre profiss
 
 Photo cover by [cottonbro studio](https://www.pexels.com/pt-br/@cottonbro/), taken with an _ILCE-7M3_.
 
-## DevSenior Cast #5 - Episódio que não deveria existir
+## DevSenior Cast #5
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0L0UhKnUsmenISx2x0ft7z?utm_source=generator&t=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

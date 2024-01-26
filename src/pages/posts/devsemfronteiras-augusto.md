@@ -10,7 +10,8 @@ layout: "../../layouts/BlogPostLayout.astro"
 
 ### PodBits: TL;DR for your favorite podcast - Enjoy!
 
-#### — Augusto conta o dia a dia do seu novo emprego, uma empresa B2B com foco no mercado de moda, onde atua remotamente como Engenheiro de Software, morando em Pádua, Itália.
+#### Dev Sem Fronteiras com Augusto Galego
+**— Augusto conta o dia a dia do seu novo emprego, uma empresa B2B com foco no mercado de moda, onde atua remotamente como Engenheiro de Software, morando em Pádua, Itália.**
 
 Nesse episódio, Fabrício Carraro entrevista Augusto Galego, um engenheiro de software que está há cerca de um ano e meio em Padova, na Itália. A conversa começa com um rápido check-in sobre o clima em diferentes partes do mundo.
 
@@ -48,6 +49,6 @@ O episódio com Augusto proporcionou uma visão interessante sobre sua experiên
 
 Photo cover by [Dogukan Aslan](https://www.pexels.com/pt-br/@dogukan-aslan-317256976/), taken with an _NIKON D5600_.
 
-## Dev Sem Fronteiras #123 - Augusto Galego
+## Dev Sem Fronteiras #123
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0udqapkGhMeobF1yVsYNxX?utm_source=generator&t=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

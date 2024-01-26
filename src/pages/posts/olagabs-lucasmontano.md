@@ -9,7 +9,8 @@ layout: "../../layouts/BlogPostLayout.astro"
 
 ### PodBits: TL;DR for your favorite podcast - Enjoy!
 
-#### — Quase profissional de BMX, android engineer na Disney, quase milionário: a história de Lucas Montano, do Canal Lucas Montano.
+#### Quem é Lucas Montano do canal Lucas Montano?
+**— Quase profissional de BMX, android engineer na Disney, quase milionário: a história de Lucas Montano, do Canal Lucas Montano.**
 
 O episódio destaca a trajetória de Lucas Montano, conhecido por seu canal no YouTube, que inicialmente era dedicado ao BMX. Contudo, sua paixão pela tecnologia o levou a uma carreira de sucesso como Senior Android Engineer na Disney.
 
@@ -75,6 +76,7 @@ Ao final, o anfitrião Gabs Ferreira agradece a presença de Lucas Montano na en
 
 Photo cover by [Isaac Garcia](https://www.pexels.com/pt-br/@basiciggy/), taken with an _Canon EOS R5_.
 
-## Olá, Gabs #26 - Quem é Lucas Montano do canal Lucas Montano?
+## Olá, Gabs #26
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/11R31e2l02a02G83yodX6l?utm_source=generator&t=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
