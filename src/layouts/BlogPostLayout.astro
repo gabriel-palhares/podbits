@@ -6,6 +6,7 @@ import Footer from '../components/Footer/Footer.astro';
 
 const {content} = Astro.props;
 const {title, description, date, hero} = content;
+const { minutesRead } = Astro.props.frontmatter;
 ---
 <html lang={ content.lang || 'pt' }>
   <head>
@@ -21,6 +22,7 @@ const {title, description, date, hero} = content;
           hero={hero}
           date={date}
         >
+        <p>{minutesRead}</p>
           <slot />
         </BlogPost>
       </article>
