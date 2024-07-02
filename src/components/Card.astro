@@ -19,6 +19,8 @@ const { post } = Astro.props;
     </h2>
     <p class="text-xs text-gray-600 mt-4 flex items-center">
       {dayjs(post.frontmatter.pubDate).format('DD-MM-YYYY')}
+      -
+      {post.frontmatter.minutesRead}
     </p>
   </div>
 </a>
