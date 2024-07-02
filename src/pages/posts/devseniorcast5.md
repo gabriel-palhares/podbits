@@ -8,8 +8,6 @@ tags: ["career"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 
-### PodBits: TL;DR for your favorite podcast - Enjoy!
-
 #### Episódio que não deveria existir
 **— Conselhos que mudam sua vida pra melhor, volte quantas vezes precisar.**
 

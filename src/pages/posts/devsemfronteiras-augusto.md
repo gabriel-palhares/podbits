@@ -8,8 +8,6 @@ tags: ["international career, software engineer"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 
-### PodBits: TL;DR for your favorite podcast - Enjoy!
-
 #### Dev Sem Fronteiras com Augusto Galego
 **— Augusto conta o dia a dia do seu novo emprego, uma empresa B2B com foco no mercado de moda, onde atua remotamente como Engenheiro de Software, morando em Pádua, Itália.**
 

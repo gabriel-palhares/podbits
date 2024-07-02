@@ -7,8 +7,6 @@ tags: ["Tech"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 
-### PodBits: TL;DR for your favorite podcast - Enjoy!
-
 #### Quem é Lucas Montano do canal Lucas Montano?
 **— Quase profissional de BMX, android engineer na Disney, quase milionário: a história de Lucas Montano, do Canal Lucas Montano.**
 
