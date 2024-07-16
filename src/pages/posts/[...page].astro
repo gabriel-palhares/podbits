@@ -17,8 +17,8 @@ export async function getStaticPaths({ paginate }) {
 
 const { page } = Astro.props
 let pageTitle = 'PodBits';
-let pageDescription = `page ${page.currentPage} of ${page.lastPage} PodBits`;
-let seoTitle = 'All | PodBits';
+let pageDescription = `página ${page.currentPage} de ${page.lastPage}`;
+let seoTitle = 'Veja todos | PodBits';
 let seoDescription = '';
 ---
 
@@ -38,7 +38,7 @@ let seoDescription = '';
       </HomeHeader>
       <section class="flex space-x-8 justify-center text-xl font-bold">
         <a class="hover:text-hot-pink" href="../" data-test="home-link">
-          Home
+          Página Inicial
         </a>
       </section>
       <section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 py-8" data-test="podbits-section">
