@@ -45,7 +45,7 @@ Ao falar sobre a culinária, Galego ressalta que a comida italiana é boa, mas d
 
 O episódio com Augusto proporcionou uma visão interessante sobre sua experiência vivendo e trabalhando na Itália. Ele compartilhou desafios burocráticos, diferenças culturais e sua preferência pela comida brasileira. As viagens frequentes pela Europa também foram destacadas como uma vantagem de estar na região. No final, ele ainda compartilhou algumas histórias engraçadas, incluindo um mal-entendido em uma cafeteria italiana e a experiência de receber uma rosa em Veneza.
 
-Photo cover by [Dogukan Aslan](https://www.pexels.com/pt-br/@dogukan-aslan-317256976/), taken with an _NIKON D5600_.
+Capa da foto por [Dogukan Aslan](https://www.pexels.com/pt-br/@dogukan-aslan-317256976/), tirada com uma _NIKON D5600_.
 
 ## Dev Sem Fronteiras #123
 
