@@ -35,7 +35,7 @@ Ele conclui convidando o público a apoiar o podcast, destacando o esforço envo
 
 Essa observação sugere uma crítica aos julgamentos precipitados sobre profissionais de nível senior, que possuem apenas dois anos de experiência, destacando a importância de compreender verdadeiramente a jornada de cada indivíduo antes de emitir juízos. Uma reflexão perspicaz que desafia os estereótipos comuns no cenário da bolha dev.
 
-Photo cover by [cottonbro studio](https://www.pexels.com/pt-br/@cottonbro/), taken with an _ILCE-7M3_.
+Capa da foto por [cottonbro studio](https://www.pexels.com/pt-br/@cottonbro/), tirada com uma _ILCE-7M3_.
 
 ## DevSenior Cast #5
 
