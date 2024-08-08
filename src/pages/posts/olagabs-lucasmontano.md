@@ -72,7 +72,7 @@ A entrevista conclui com Lucas Montano dando uma dica para desenvolvedores inici
 
 Ao final, o anfitrião Gabs Ferreira agradece a presença de Lucas Montano na entrevista e expressa apoio, destacando a importância do compartilhamento de histórias e experiências. O episódio conclui com agradecimentos aos ouvintes e incentivo para compartilhar o episódio nas plataformas de podcast.
 
-Photo cover by [Isaac Garcia](https://www.pexels.com/pt-br/@basiciggy/), taken with an _Canon EOS R5_.
+Capa da foto por [Isaac Garcia](https://www.pexels.com/pt-br/@basiciggy/), tirada com uma _Canon EOS R5_.
 
 ## Olá, Gabs #26
 
